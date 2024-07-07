@@ -22,7 +22,8 @@ Este projeto consiste em criar um jogo simples utilizando HTML, CSS e JavaScript
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/fabiocasadossites/desafio-javascript-jogoDetonaRalph-dio.git
+   git clone https://github.com/fabiocasadossites/desafio-javascript-jogoDaMemoria-dio.git
+
    ```
 
 2. Navegue até o diretório do projeto:
@@ -37,4 +38,31 @@ Este projeto consiste em criar um jogo simples utilizando HTML, CSS e JavaScript
 
 ### Veja o projeto
 
-[Link do projeto](https://fabiocasadossites.github.io/desafio-javascript-jogoDetonaRalph-dio)
+[Link do projeto](https://fabiocasadossites.github.io/desafio-javascript-jogoDaMemoria-dio.git)
+
+
+<br>
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/44373172"
+    />
+    <p>&nbsp&nbsp&nbspFabio Augusto<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/fabiocasadossites">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/fabioasa/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.fabioaugusto.dev/">
+    Portfolio </a>
+&nbsp;&nbsp;</p>
+</p>
+<br/>
+<p>
+
+💻 com ❤️ por [Fabio Augusto](https://github.com/fabiocasadossites)
